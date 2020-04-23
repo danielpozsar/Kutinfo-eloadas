@@ -2,14 +2,7 @@
 Homework:
 Digital image processing / Képfeldolgozási eljárások
 
-
-
-
-
-
-
-1. dia:
-cím
+Amiről beszéltem:
 
 
 
@@ -97,9 +90,9 @@ Rendkívül zajérzékeny, előzetes simítás erősen javasolt!
 
 
 8. dia:
-X-irányú parciális derivált közelítése az alábbi konvolúciós maszkkal. X-irányú élekre érzékeny. Figyeljük meg, hogy a vizsgált képpont jobb oldali szomszédainak súlyozott összegéből vonjuk ki a bal oldaliak súlyozott összegét.
-nem végez előjelváltás keresést, csak a Laplace eredmény abszolútértékét képzi, ami elrontja az élkeresési lehetőséget
-Azokon a helyeken legyen élpont, ahol a lokális környezet minimuma negatív, a maximuma pedig pozitív érték. Vegyük figyelembe, hogy a nulla csak értéktől kis mértékben való eltérés zaj hatására is kialakulhat, ezért élt ott detektáljunk, ahol a nullától eltérés egy megadott érték feletti (a példánkban -10 és 10 értékeket használunk).
+Parciális derivált közelítése konvolúciós maszkkal. X-irányú élekre érzékeny. Figyeljük meg, hogy a vizsgált képpont jobb oldali szomszédainak súlyozott összegéből vonjuk ki a bal oldaliak súlyozott összegét.
+nem végez előjelváltás keresést, csak a Laplace eredmény abszolútértékét képzi, ami elrontja az élkeresési lehetőséget.
+
 szintaxis magyarázat
 
 
@@ -139,7 +132,6 @@ mozgás követés, oscar díj
 jó:
 fekete lyuk
 chirp az adatok összekapcsolására
-egyre kevésbé képfeldolgozás
 
 rossz:
 kína arcfelismerés
