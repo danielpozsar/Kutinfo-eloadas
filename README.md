@@ -1,2 +1,3 @@
-# Kutinf-el-ad-s
-Homework
+# Kutatómunka információs eszközei előadás
+Homework:
+Digital image processing / Képfeldolgozási eljárások
