@@ -144,15 +144,27 @@ telefonszolgáltatóknak kell arckép
 
 12. dia:
 források:
+
 https://en.wikipedia.org/wiki/Digital_image_processing#History
+
 https://regi.tankonyvtar.hu/hu/tartalom/tamop412A/2011-0063_15_gepi_latas/ch02.html
+
 https://en.wikipedia.org/wiki/MOSFET
+
 http://www.inf.u-szeged.hu/~tanacs/pyocv/
+
 https://gyires.inf.unideb.hu/KMITT/c01/ch03s02.html
+
 https://patbaa.github.io/physdl/
+
 https://blog.maxar.com/earth-intelligence/2019/in-the-wake-of-dorian-maxars-geohive-damage-assessment-and-the-state-of-the-bahamas?utm_source=maxar.com-use-cases&utm_medium=website
+
 https://medium.com/image-vision/noise-in-digital-image-processing-55357c9fab71
+
 https://towardsdatascience.com/a-comprehensive-guide-to-convolutional-neural-networks-the-eli5-way-3bd2b1164a53
+
 https://www.unite.ai/what-is-computer-vision/
+
 http://www.asianews.it/news-en/Beijing,-facial-recognition-to-buy-a-SIM-card-48696.html
+
 https://techcrunch.com/2019/04/10/the-creation-of-the-algorithm-that-made-the-first-black-hole-image-possible-was-led-by-mit-grad-student-katie-bouman/
